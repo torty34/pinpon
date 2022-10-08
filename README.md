@@ -1,9 +1,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link href="../css/selectores.css" rel="stylesheet" >
+      <link href="../css/selectores.css" rel="stylesheet" >
+      <style>
+        .div-1 {
+            background-color: #EBEBEB;
+        }
+        
+        .div-2 {
+        	background-color: #ABBAEA;
+        }
+        
+        .div-3 {
+        	background-color: #FBD603;
+        }
+      </style>
     </head>
     <body>
+        <div class="div-1"> what ? </div> 
         <p class="fruta" >fruta</p>
         <p class="fruta" >manzana</p>
         <p class="carne" >carne</p>
